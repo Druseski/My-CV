@@ -1,0 +1,21 @@
+.Main{
+    margin: 0;
+    padding: 0;
+    width: 80%;
+    display: flex;
+
+}
+.ContactMe{
+    width: 30%;
+background-color: rgb(81, 81, 107);
+}
+.MyKnowledge{
+    width: 70%;
+background-color: rgb(150, 214, 243);
+}
+.PictureProfile{
+width: 170px;
+}
+.Contacts{
+width: 50px;
+}
